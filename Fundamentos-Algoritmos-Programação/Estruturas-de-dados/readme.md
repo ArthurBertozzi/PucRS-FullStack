@@ -61,6 +61,10 @@ A classe `MeuSet` oferece os seguintes métodos:
 - `tamanho()`: Retorna o tamanho do conjunto.
 - `limpar()`: Limpa o conjunto.
 
+## Diretório "Árvores"
+
+Contém exemplos de implementação de estruturas de árvores
+
 ## Como utilizar
 
 Cada estrutura de dados possui seu arquivo correspondente com a implementação da classe. Basta importar o arquivo desejado em seu projeto e utilizar os métodos disponíveis para interagir com a estrutura.
